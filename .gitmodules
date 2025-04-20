@@ -1,0 +1,3 @@
+[submodule "firmware/lib/M5Unit-Synth"]
+	path = firmware/lib/M5Unit-Synth
+	url = git@github.com:shaga/M5Unit-Synth.git
